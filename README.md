@@ -76,4 +76,4 @@ int main() {
 ## 🌌  The image I like
 Here is the image I personally like: it's my cat - Yuki. I think he looks adorable at this picture.
 
-![Alt text describing your image](images/Image.JPG)
+![Yuki](images/Image.JPG)
