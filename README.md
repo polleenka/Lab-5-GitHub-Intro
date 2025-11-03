@@ -63,7 +63,7 @@ int main() {
     return 0;
 }
 ```
-[web](https://cpp.sh/?source=%23include+%3Ciostream%3E%0A%0Aint+main()+%7B%0A++++std%3A%3Acout+%3C%3C+%22Hello%2C+GitHub!!%22%3B%0A++++return+0%3B%0A%7D)
+Use this [web-complier](https://cpp.sh/?source=%23include+%3Ciostream%3E%0A%0Aint+main()+%7B%0A++++std%3A%3Acout+%3C%3C+%22Hello%2C+GitHub!!%22%3B%0A++++return+0%3B%0A%7D) to check the code out. In this example, the `main()` function prints "Hello, GitHub!" message. 
 ---
 
 ## 🌌  The image I like
