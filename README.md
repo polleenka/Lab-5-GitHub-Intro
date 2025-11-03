@@ -41,24 +41,16 @@ Here is what I think about each of the studying options:
 Here are some of my favourite math formulas: 
 
 ,- this is the parabolic function formula;
-$$
-y = \alpha x^{2} + \beta x + \gamma
-$$
+$$y = \alpha x^{2} + \beta x + \gamma$$
 
 ,- this is the modified hyperbolic function;
-$$
-y = \frac{k_{1}}{k_{2}x + c}
-$$
+$$y = \frac{k_{1}}{k_{2}x + c}$$
 
 ,- this is how to solve quadratic equation.
-$$
-D = b^{2} - 4ac, x_{1} = \frac{-b + \sqrt{D}}{2a}, x_{2} = \frac{-b - \sqrt{D}}{2a}
-$$
+$$D = b^{2} - 4ac, x_{1} = \frac{-b + \sqrt{D}}{2a}, x_{2} = \frac{-b - \sqrt{D}}{2a}$$
 
 ,- this is the formula for calculating the area of a circle.
-$$
-A = \pi r^{2}
-$$
+$$A = \pi r^{2}$$
 
 ## 🧑‍💻 My coding skills
 I am skilled enough to do some coding - here is one of the examples: 
